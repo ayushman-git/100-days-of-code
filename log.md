@@ -8,4 +8,14 @@
 
 **Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
 
+### Day 2: July 22, 2020
+
+**Today's Progress**: Completed AJAX and HTTP request module on codecademy and fixed text overflow in small modules in weather-app.
+
+**Thoughts:** Learned how to make HTTP request (GET and POST) as per pre-ECMA-2015 standard. Now able to make boiler-plate codes for GET and POST method using XHR object. Fixed a bug which makes a big text overflow in weather-app small modules.
+
+**Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
+
+[**Commit link**](https://github.com/ayushman-git/weather-app/commit/ec6cc79c241f3f5f2d29aa04466a3ef2098e5b41)
+
 
