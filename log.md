@@ -18,4 +18,14 @@
 
 [**Commit link**](https://github.com/ayushman-git/weather-app/commit/ec6cc79c241f3f5f2d29aa04466a3ef2098e5b41)
 
+### Day 3: July 23, 2020
+
+**Today's Progress**: Used async and await with fetch and try...catch to access data. Added clouds animation on weather-app. 
+
+**Thoughts:** Learned how to use async functions to fetch data with GET method. I found it's much simpler than XHR and normal fetch to use async and fetch together to access data. Figured out how to try and catch while using fetch. Added clouds animations on the background for cloudy day.
+
+**Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
+
+[**Commit link**](https://github.com/ayushman-git/weather-app/commit/67fbd606432b50c45cc2d85d9d5d9734430afe0e)
+
 
