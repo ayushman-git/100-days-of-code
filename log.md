@@ -28,4 +28,14 @@
 
 [**Commit link**](https://github.com/ayushman-git/weather-app/commit/67fbd606432b50c45cc2d85d9d5d9734430afe0e)
 
+### Day 4: July 24, 2020
+
+**Today's Progress**: Used async and await with fetch and try...catch to access data with POST method. Added rain animation on weather-app. 
+
+**Thoughts:** Learned how to use async functions to fetch data with POST method. I used Datamuse and Rebrandly API to practice GET and POST method with this new technique. I also added a rain animation for the background on my weather-app with the help of jQuery.
+
+**Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
+
+[**Commit link**](https://github.com/ayushman-git/weather-app/commit/ee859ada335c46541d30799153744f4d4788939c)
+
 
