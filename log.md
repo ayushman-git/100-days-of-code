@@ -38,4 +38,14 @@
 
 [**Commit link**](https://github.com/ayushman-git/weather-app/commit/ee859ada335c46541d30799153744f4d4788939c)
 
+### Day 5: July 25, 2020
+
+**Today's Progress**: Started LinkedIn HTML essential course. Added snow animation on weather-app.
+
+**Thoughts:** Today I started LinkedIn HTML essential course. I learned new text formatting tags ```<q>``` and ```<blockquote>``` and a new list type (description list) though its not a very useful tag. Learned about semantic values of tags, for eg. ```<h1>``` tag will have more semantive value than ```<h2>```. It could be useful in accessibility of the page. So we should always follow semantic rules of html - meaning the most dominant heading should always be displayed using```<h1>```, the next most prominent heading should be usingn ```<h2>``` and so on (we can change their size and appearance with css). Learned about ```<time>``` tag and its ```datetime``` attribute. While declaring a time we should use time tag and use datetime attribute so that we can use that date in js. Learned a little about ARIA accessibility attributes - ```aria-label``` and ```aria-remove``` to add meaning or remove the semantic meaning from a tag which might have been changed because of using un-semantic methods. Also added snow effect on weather-app with SCSS.
+
+**Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
+
+**Commit link** [1](https://github.com/ayushman-git/linkedin-w3school/commit/9bd60cd6146a91f490776e7fa28177e3fdebbb75) & [2](https://github.com/ayushman-git/weather-app/commit/3763859a575599a7ec4bc435fc0749dbd5b8272c)
+
 
