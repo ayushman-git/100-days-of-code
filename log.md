@@ -48,4 +48,13 @@
 
 **Commit link** [1](https://github.com/ayushman-git/linkedin-w3school/commit/9bd60cd6146a91f490776e7fa28177e3fdebbb75) & [2](https://github.com/ayushman-git/weather-app/commit/3763859a575599a7ec4bc435fc0749dbd5b8272c)
 
+### Day 6: July 26, 2020
+
+**Today's Progress**: Learned about links, their path, absolute URL and relative URL, srcset. Trimmed the code for background-animation in weather-app.
+
+**Thoughts:** I continued the LinkedIn HTML course and learned about links, URL types likes relative and absolute. Learned about image tags. If there's a lot of content and images and user scrolls down, if the images are not loaded up yet and <img> tag don't have width and height attribute or its dimensions are not defined in css the scroll will go down as soon as browser loads up the images. So if we want to maintain scroll position we give dimensions to the image. Also discovered srcset attribute, but can't make it work in my example.I will take another look on it. I tried making weather-app resposive for smaller screens using media queries, but I can't make a newer grid. I may try flexbox for smaller screens. I have to look into SASS tutorial to complete the night animation. I trimmed the code for animations into a single div and instead of changing the display to ```inline-block``` now I am calling the function.
+
+**Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
+
+**Commit link** [1](https://github.com/ayushman-git/linkedin-w3school/commit/9bd60cd6146a91f490776e7fa28177e3fdebbb75) & [2](https://github.com/ayushman-git/linkedin-w3school/commit/8ba4185e326313abf77b509961c5a55d830c8eaf)
 
