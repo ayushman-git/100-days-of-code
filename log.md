@@ -56,5 +56,17 @@
 
 **Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
 
-**Commit link** [1](https://github.com/ayushman-git/linkedin-w3school/commit/9bd60cd6146a91f490776e7fa28177e3fdebbb75) & [2](https://github.com/ayushman-git/linkedin-w3school/commit/8ba4185e326313abf77b509961c5a55d830c8eaf)
+**Commit link** [1](https://github.com/ayushman-git/linkedin-w3school/commit/9bd60cd6146a91f490776e7fa28177e3fdebbb75) & [2](https://github.com/ayushman-git/weather-app/commit/cb42cfbe92e5e784b15a34b3e9a3eddce2f0f6c0)
+
+### Day 7: July 27, 2020
+
+**Today's Progress**: Learned about responsive images, audio, video and its captions (WebVTT) also to embed videos from other streaming platform. Made stars in weather-app flicker and glow.
+
+**Thoughts:** In my linkedIn course I learned further about resposive images. Using ```<srcset>``` and ```<sizes>``` to load same image but with different resolutions to be rendered on HTML according to user's network speed and screen size. I also used ```picture tag``` to use completely different images with different aspect ratios, so that different images are downloaded for different screen sizes. Used audio tag with ```<source>``` tag to use multiple audio formats and broswer will pick the one it can understand from top. In ```<video>``` tag I learned about ```<track>``` tag which is used to put different captions and subtitles for the video. Track tag takes a ```.vtt``` (which stands for Web Visual Text Track).
+
+In my weather-app, I used SASS function to make stars flicker. I used SASS function to create different rulesets for all 200 stars ids and assign them random values of animation-delay and animation-duration. So each star looks different from each other. I also added box-shadow with random values of blur to make them glow.
+
+**Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
+
+**Commit link** [1](https://github.com/ayushman-git/linkedin-w3school/commit/fd8dad905a20a9b01ab239f196b5e17b49a76fe2) & [2](https://github.com/ayushman-git/weather-app/commit/ba897e9b4d46a706d10edabdf0e2e6d89bc8d34b)
 
