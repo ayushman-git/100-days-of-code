@@ -70,3 +70,15 @@ In my weather-app, I used SASS function to make stars flicker. I used SASS funct
 
 **Commit link** [1](https://github.com/ayushman-git/linkedin-w3school/commit/fd8dad905a20a9b01ab239f196b5e17b49a76fe2) & [2](https://github.com/ayushman-git/weather-app/commit/ba897e9b4d46a706d10edabdf0e2e6d89bc8d34b)
 
+### Day 8: July 28, 2020
+
+**Today's Progress**: Completed LinkedIn course, learned about semantic tags, form elements, tables. Made star in weather-app move.
+
+**Thoughts:** Today I fianlly completed the HTML essential course on LinkedIn. I learned about semantic tags, like ```<main>```, ```<section>```, ```<article>```, ```<footer>```, ```<aside>``` and their semantic values. Main is used only once per page to display the main content. Section is used to divide different sections of the page, article is used to define a content that could be useful for viewer like blog post, cards etc, footer is used to display additional information, aside is used to used elements on the side like ads and navbar etc. We can nest these elements for better representation of the semantic values. Learned about different form and input types. Learned about fieldset, it should be used to bundle checkboxes, radio buttons etc, label is used for labeling a input field. There are different types of input fields, like password, email, date, color, file etc. Also learned about table elements, th tr td etc their attributes like colspan, rowspan to determine how much rows or columns they would occupy.
+
+In my weather app I made stars move randomly. They look random but I divided them into three types of movement animations and applied different transforms to them combined with that, I applied random animation delay and animation time.
+
+**Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
+
+**Commit link** [1](https://github.com/ayushman-git/linkedin-w3school/commit/8fc5bfd67c274cf29cf2defe7e00f317e0b33fc2) & [2](https://github.com/ayushman-git/weather-app/commit/884bc45c144d321a7f6538627df1eb3ba4a02a4e)
+
