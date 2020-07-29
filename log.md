@@ -82,3 +82,16 @@ In my weather app I made stars move randomly. They look random but I divided the
 
 **Commit link** [1](https://github.com/ayushman-git/linkedin-w3school/commit/8fc5bfd67c274cf29cf2defe7e00f317e0b33fc2) & [2](https://github.com/ayushman-git/weather-app/commit/884bc45c144d321a7f6538627df1eb3ba4a02a4e)
 
+### Day 9: July 29, 2020
+
+**Today's Progress**: Started with Introduction to Web Dev on FrontendMasters. Learned about IDs use and revised other tags and practices.
+
+**Thoughts:** I started a new course today on FrontendMasters. I revised the tags and their semantic values that I learned in the LinkedIn course. I didn't find much new things to learn as most of the things were introduced in the LinkedIn course or I already knew. But I liked the structure and depth of this course. I learned something new today about HTML IDs. IDs name can only be used once in the whole website, meaning including all the pages under a domain. They are not that useful today because it undermines the usability of elements. But there is one instance that I found it to be useful and that is giving IDs to different sections of the page and loading to that section by using ```www.example.com/index.html#id-name```. It will directly open that section of the page. 
+
+In my weather map I adjusted the loaction of the weather icon in main module.
+
+**Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
+
+**Commit link** [1](https://github.com/ayushman-git/IntroToWebDev-L/commit/c8d5bb582c2d0d11024860cea58995548a2c88ad) & [2](https://github.com/ayushman-git/weather-app/commit/c3645cbbc718df9aab42ab5ad2458d3451e7a9f6)
+
+
