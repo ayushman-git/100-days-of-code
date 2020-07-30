@@ -95,3 +95,17 @@ In my weather map I adjusted the loaction of the weather icon in main module.
 **Commit link** [1](https://github.com/ayushman-git/IntroToWebDev-L/commit/c8d5bb582c2d0d11024860cea58995548a2c88ad) & [2](https://github.com/ayushman-git/weather-app/commit/c3645cbbc718df9aab42ab5ad2458d3451e7a9f6)
 
 
+### Day 10: July 30, 2020
+
+**Today's Progress**: Learned about selectors, specificity, pseudo classes, display, box-sizing, flexbox. In JS template literals data type, difference between equality operaters, objects. Fixed sunrise/sunset module in weather app.
+
+**Thoughts:** I think today I learned a lot of things. Under CSS section of the course, I learned about specificity which determines which ruleset will be applied. So, more specific the selector, more priority would be given to it. If multiple selectors have same specificity then one in the last will be considered. So this is the specificity order **tag > class > multiple classes > ID > !important**. We should avoid using !important in the most there can be other solutions which will make the CSS easy for others to read. Learned about selectors and pseudo classes. If we call .a .b then it will select all .b classes under .a. But if we use .a > .b then it will pick the immediate child of .a which has .b class. There's pseudo classes which determines the state of the element, like :hover. There's also :first-child, last-child and nth-child(n) which selects the child components and we can use nth-child to select in increment. Learned about display property in CSS, (block, inline, inline-block). There's a box-sizing property which determines what to include while giving dimension to the element. By default its content-box which don't include padding and applies dimension properties to the content then there's border-box which includes padding as well thus applying padding will not move the border (inside padding). Also learned basics about flexbox, how to align items, strech etc.
+
+In my JS course, learned about template literals, equality opeartor. === compare the value without changing them, == compares the value after implicitly changing them. So 5 === "5" is false but 5 == "5" is true. Learned about objects.
+
+In my weather-app I finally fixed the time calculaltor sunrise and sunset. So if we give it an UTC time it will convert it to the actual time of that timezone.
+
+**Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
+
+**Commit link** [1](https://github.com/ayushman-git/IntroToWebDev-L/commit/1cf8f9da279930e112bd923f91ae06f056a81c89) & [2](https://github.com/ayushman-git/weather-app/commit/33cbd11f8717653a6c51b3b0d689e96eb8028389)
+
