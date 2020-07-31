@@ -109,3 +109,12 @@ In my weather-app I finally fixed the time calculaltor sunrise and sunset. So if
 
 **Commit link** [1](https://github.com/ayushman-git/IntroToWebDev-L/commit/1cf8f9da279930e112bd923f91ae06f056a81c89) & [2](https://github.com/ayushman-git/weather-app/commit/33cbd11f8717653a6c51b3b0d689e96eb8028389)
 
+### Day 11: July 31, 2020
+
+**Today's Progress**: Continued js course, learned about DOM, event listener and other basics.
+
+**Thoughts:** Today I learned the difference between built-in property and function, arrays and how to access each element without a for loop. I also learned about context, this mostly refers to the object where its called from. Now have a better understanding of forEach and other array methods. Also about event Listener, they take two arguments, one the event type and one an anonymous callback function. A callback function is a function which is being passed in as argument in other function. There's event delegation, so if an event occurs and child is not able to handle that event the that event will be passed to the immediate parent of that child and this will continue untill the event is reached to the root element then its vanishes. This is also called bubbling. We can stop bubbling with stopPropogation method.
+
+**Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
+
+**Commit link** [1](https://github.com/ayushman-git/IntroToWebDev-L/commit/19f76ba582db0635ca8af4c72ce80f53f690dab5)
