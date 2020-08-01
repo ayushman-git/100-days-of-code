@@ -118,3 +118,13 @@ In my weather-app I finally fixed the time calculaltor sunrise and sunset. So if
 **Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
 
 **Commit link** [1](https://github.com/ayushman-git/IntroToWebDev-L/commit/19f76ba582db0635ca8af4c72ce80f53f690dab5)
+
+### Day 12: August 1, 2020
+
+**Today's Progress**: Studied further about NaN, new, boolean, falseys and truthys etc.
+
+**Thoughts:** I started the new JS course on Frontend Masters. I learned a lot things that I didn't knew before. One being NaN and what it actually means. Then when to use the new keyword. If we want to create a new object then we should use new and if we want coercion then don't use new keyword. Learned new terminologies such as undeclared, undefined, functions expressions. I also learned about the Boolean() conversion which can also be performed using !!.
+
+**Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
+
+**Commit link** [1](https://github.com/ayushman-git/fem-node-js-L/commit/b1f04336a852dd03ed8c3297d9458ad8888f91b5)
