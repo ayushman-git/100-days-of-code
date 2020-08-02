@@ -128,3 +128,15 @@ In my weather-app I finally fixed the time calculaltor sunrise and sunset. So if
 **Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
 
 **Commit link** [1](https://github.com/ayushman-git/fem-node-js-L/commit/b1f04336a852dd03ed8c3297d9458ad8888f91b5)
+
+### Day 12: August 2, 2020
+
+**Today's Progress**: Learned about IIFEs, let, explicit let block, scope and closure, class, difference between reference and value, dot and brackets. In my weather app I add last observation time and changed loading technique.
+
+**Thoughts:** Today I learned a lot of new elements of JS, I learned  about IIFEs - which stands for Immediatly Invoked Function Expression, which are function expressions which gets immediately invoked after declerataion. It can be used to prevent changing the values of global scope. But we can do same with let keyword. We can use {} anywhere to define a let variable only available for that block - like {let aNamme = "A"}. Now have a better understanding of closures. So whenever any function is created it has a sense of its environment, so it don't dispose the values which can be further used and it can access its parent's var without even invoking the parent function. Also learned a little about prototypes - these are used for inheritence but same can be done with class which is much easy to understand. Class can be used to create several instance of a prticular group of data. '.' operater is always used with objects. There's two ways to store a var, one is reference( for non-primitive ) and one is value ( for primitive ). Values stored in objects are actually pointers that reference to the value. Obj -> name -> "Ayushman", but primitive values directly have the value in that variable. sameName -> "Ayushman". '.' notation coerce the variable intro string except when its starting with digits or dash.
+
+In my weather app I added the last observation time, which I added using the dateSplit function. I also removed the previous loading method so now it looks like its loading faster than before.
+
+**Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
+
+**Commit link** [1](https://github.com/ayushman-git/fem-node-js-L/commit/a17b618b0d7d083cce1fd07002a4107e294346e5) & [2](https://github.com/ayushman-git/weather-app/commit/83b6a8de643dcfef74c8c744aad66271664cea4f)
