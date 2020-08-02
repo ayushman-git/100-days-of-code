@@ -129,7 +129,7 @@ In my weather-app I finally fixed the time calculaltor sunrise and sunset. So if
 
 **Commit link** [1](https://github.com/ayushman-git/fem-node-js-L/commit/b1f04336a852dd03ed8c3297d9458ad8888f91b5)
 
-### Day 12: August 2, 2020
+### Day 13: August 2, 2020
 
 **Today's Progress**: Learned about IIFEs, let, explicit let block, scope and closure, class, difference between reference and value, dot and brackets. In my weather app I add last observation time and changed loading technique.
 
