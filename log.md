@@ -140,3 +140,13 @@ In my weather app I added the last observation time, which I added using the dat
 **Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
 
 **Commit link** [1](https://github.com/ayushman-git/fem-node-js-L/commit/a17b618b0d7d083cce1fd07002a4107e294346e5) & [2](https://github.com/ayushman-git/weather-app/commit/83b6a8de643dcfef74c8c744aad66271664cea4f)
+
+### Day 14: August 3, 2020
+
+**Today's Progress**: Learned about destructuring arrays and objects. Looping arrays and objects, populating arrays and objects with variables. Also looked into forEach. 
+
+**Thoughts:** There were  lot of variations of destructuring arrays and objects. I also learned when to use . and [] and also how to loop throw arrays and objects. Looked a little into spread operator. For looping I used forEach, for and for in. I think now I've a better understanding of how to access arrays and objects values. There was also how to populate an array or objects using functions and variables.
+
+**Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
+
+**Commit link** [1](https://github.com/ayushman-git/fem-node-js-L/commit/2d2ee72e3883bf14a61a47e303f8a66b54e0509f)
