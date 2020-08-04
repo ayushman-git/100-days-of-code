@@ -150,3 +150,13 @@ In my weather app I added the last observation time, which I added using the dat
 **Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
 
 **Commit link** [1](https://github.com/ayushman-git/fem-node-js-L/commit/2d2ee72e3883bf14a61a47e303f8a66b54e0509f)
+
+### Day 15: August 4, 2020
+
+**Today's Progress**: Learned about forEach, map, filter and data projection.
+
+**Thoughts:** I am still finding new ways to create arrays, objects and access their elements. forEach don't return any value its just used to iterate through each elements. map can be used to create new array from an existing data structure as it returns an array. Filter can be used to have a condition for each elements in an array and if they return true they will be added to the new array, so it also returns an array. With these techniques I tried to access different types of data and come up with new data structure.
+
+**Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
+
+**Commit link** [1](https://github.com/ayushman-git/fem-node-js-L/commit/74229bd0264a963ac94ff772a728f5920b143c55)
