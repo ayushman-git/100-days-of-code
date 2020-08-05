@@ -160,3 +160,13 @@ In my weather app I added the last observation time, which I added using the dat
 **Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
 
 **Commit link** [1](https://github.com/ayushman-git/fem-node-js-L/commit/74229bd0264a963ac94ff772a728f5920b143c55)
+
+### Day 16: August 5, 2020
+
+**Today's Progress**: Learned about argumemnts keyword, spread operator, default parameters and little about scoping.
+
+**Thoughts:** Today I found new tools to handle functions and data structures. Arguments keyword can be used to access the list of all the arguments passed in the function. But the list is actually an array-like objects so we can't use most of the array properties and functions. We can convert it into an array with Arra.from(). Then there's spread operater (...), it is used to access the additional values. We can also assign default valeus to parameters if they are not sent as arguments. Then a little about scoping.
+
+**Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
+
+**Commit link** [1](https://github.com/ayushman-git/fem-node-js-L/commit/74229bd0264a963ac94ff772a728f5920b143c55)
