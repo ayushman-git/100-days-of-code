@@ -170,3 +170,13 @@ In my weather app I added the last observation time, which I added using the dat
 **Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
 
 **Commit link** [1](https://github.com/ayushman-git/fem-node-js-L/commit/74229bd0264a963ac94ff772a728f5920b143c55)
+
+### Day 17: August 9, 2020
+
+**Today's Progress**: Started Jen's course on responsive CSS.
+
+**Thoughts:** After a little break, I finished Bianca's course, learned about closures and advance scoping. In CSS course learned little about floats and flexbox. I also redesigned the complete fem dir and made it look clean. Used little bit of floats to position items. Also learned about responsive design and what is needed to design a responsive website.
+
+**Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
+
+**Commit link** [1](https://github.com/ayushman-git/fem-node-js-L/commit/b9fc26927804de5aaa0a10ebe0efc2bca00543ba)
