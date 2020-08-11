@@ -180,3 +180,11 @@ In my weather app I added the last observation time, which I added using the dat
 **Link to work:** [weather-app](https://weathertestapp.netlify.app/) & [repo](https://github.com/ayushman-git/weather-app)
 
 **Commit link** [1](https://github.com/ayushman-git/fem-node-js-L/commit/b9fc26927804de5aaa0a10ebe0efc2bca00543ba)
+
+### Day 18: August 10, 2020
+
+**Today's Progress**: Learned about flexbox.
+
+**Thoughts:** In the course I learned about flexbox, like main-axis, cross-axis. With flexbox we can easily position elements on one dimension (row/column), but we are not limited to that. We can also use the nested flexbox so it can act as grid and layout the whole website. If it's getting complex with flex we should move on with grid and use flex in grids.
+
+**Commit link** [1](https://github.com/ayushman-git/fem-node-js-L/commit/7131ecf8e462db25cdabf08570835547c145a384)
