@@ -188,3 +188,13 @@ In my weather app I added the last observation time, which I added using the dat
 **Thoughts:** In the course I learned about flexbox, like main-axis, cross-axis. With flexbox we can easily position elements on one dimension (row/column), but we are not limited to that. We can also use the nested flexbox so it can act as grid and layout the whole website. If it's getting complex with flex we should move on with grid and use flex in grids.
 
 **Commit link** [1](https://github.com/ayushman-git/fem-node-js-L/commit/7131ecf8e462db25cdabf08570835547c145a384)
+
+### Day 19: August 11, 2020
+
+**Today's Progress**: Creating a new website using flex and also making it responsive for phones and tablets.
+
+**Thoughts:** I created a new website ***Covid19***. Its going to be a simple and clean looking site that shows some common quarentine practices and stats with the help of API. I finished the hero page of the website. I will try to use flex properly wherever I could and try to make it responsive. In the hero section I created a nav and a banner image and a main heading with a button. I find that using flex makes positioning elements very easy.
+
+**Link to work:** [covid19](https://covid19responsive.netlify.app//) & [repo](https://github.com/ayushman-git/covid19)
+
+**Commit link** [1](https://github.com/ayushman-git/covid19/commit/5242d31a00e5354130ea89d8450f8ef13bec91d5)
