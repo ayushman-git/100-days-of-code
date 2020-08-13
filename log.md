@@ -198,3 +198,13 @@ In my weather app I added the last observation time, which I added using the dat
 **Link to work:** [covid19](https://covid19responsive.netlify.app//) & [repo](https://github.com/ayushman-git/covid19)
 
 **Commit link** [1](https://github.com/ayushman-git/covid19/commit/5242d31a00e5354130ea89d8450f8ef13bec91d5)
+
+### Day 20: August 13, 2020
+
+**Today's Progress**: I added an advice section in the covid website.
+
+**Thoughts:** In the Covid19 website I added the advice section where I used WHO's articles and positioned them using flex. I am happy with the outcome. There's artiles on the left which occupies 80% of screen and rest 20% are icons.
+
+**Link to work:** [covid19](https://covid19responsive.netlify.app//) & [repo](https://github.com/ayushman-git/covid19)
+
+**Commit link** [1](https://github.com/ayushman-git/covid19/commit/5242d31a00e5354130ea89d8450f8ef13bec91d5)
