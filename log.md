@@ -207,4 +207,4 @@ In my weather app I added the last observation time, which I added using the dat
 
 **Link to work:** [covid19](https://covid19responsive.netlify.app//) & [repo](https://github.com/ayushman-git/covid19)
 
-**Commit link** [1](https://github.com/ayushman-git/covid19/commit/5242d31a00e5354130ea89d8450f8ef13bec91d5)
+**Commit link** [1](https://github.com/ayushman-git/covid19/commit/617ae9fe0be70c82469d2a3a6f58106682fb23ce)
